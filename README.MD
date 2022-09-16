@@ -6,7 +6,7 @@
 
 🚀Projeto criado no evento NEXT LEVEL WEEK da plataforma da Rocketseat🚀.
 
-[🔗Clique aqui para acessar] (https://kaakeeilish.github.io/NLW-EX)
+[🔗Clique aqui para acessar](https://kaakeeilish.github.io/NLW-EX)
 
 ## 💻Tecnologias
 
